@@ -12,5 +12,6 @@
 &nbsp;
 
 **This bot is currently on Russian language.**
+**Right now, my bot has only a small amount of professions, but I will fix it later.**
 
 # Thank you for reading!😊
