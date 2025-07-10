@@ -12,3 +12,5 @@
 &nbsp;
 
 **This bot is currently on Russian language.**
+
+# Thank you for reading!😊
